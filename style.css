@@ -66,20 +66,20 @@ h2 {
 .img1 {
     inline-size: 450px;
     position: relative;
-    left: 100px;
-    bottom: 100px;
+    left: 10%;
+    bottom: 30%;
     }
 .img2 {
     inline-size: 250px;
     position: relative;
-    left: 635px;
-    bottom: 35px;
+    left: 41.5%;
+    bottom: 15%;
     }
 .img3 {
     inline-size: 350px;
     position: relative;
-    left: 590px;
-    bottom: 35px;
+    left: 38%;
+    bottom: 18%;
     }
 p {
     text-align: center;
